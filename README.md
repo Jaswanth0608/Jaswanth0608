@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagan Ram Jaswanth Polamarasetti</h1>
 <h3 align="">Machine Learning Enthusiast</h3>
+
 - 🌱 I’m currently diving deep into LLM's, GANs and Gen AI
 
 - 🤩 Areas of Interests - Machine Learning, Deep Learning, Computer Vision & Natural Language Processing.
