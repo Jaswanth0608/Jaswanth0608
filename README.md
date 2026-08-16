@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jagan-ram-jaswanth-p-34a02624b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jagan Ram Jaswanth" height="30" width="40" /></a>
-<a href="https://instagram.com/jaswanth_0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswanth_0608" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/jaswanth_0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswanth_0608" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/jaswanthkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jagan Ram Jaswanth" height="30" width="40" /></a> -->
 </p>
 
